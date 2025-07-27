@@ -32,7 +32,6 @@ Projects/
 ├── sanji2.png
 └── icon.png
 
-
 ---
 
 ## How to Run
