@@ -1,4 +1,4 @@
-# One Piece Character Showcase (Java Swing GUI)
+# One Piece Character Showcase (Java GUI)
 
 This is a desktop GUI application built with Java Swing that displays character panels for three main characters from the anime *One Piece* — Luffy, Zoro, and Sanji. Each character panel includes a custom image and a button that dynamically updates the GUI with new content when clicked.
 
